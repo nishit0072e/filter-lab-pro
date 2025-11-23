@@ -24,6 +24,10 @@
 -   **Styling:** Tailwind CSS
 -   **Visualization:** Recharts
 -   **Icons:** Lucide React
+
+## Live Demo
+
+[To View click here](https://nishit0072e.github.io/filter-lab-pro/)
 ## 📦 Installation & Local Development
 1.  **Clone the repository:**
     ```
