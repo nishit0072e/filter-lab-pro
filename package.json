@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://<YOUR_GITHUB_USERNAME>.github.io/<REPO_NAME>",
+  "homepage": "https://github.com/nishit0072e/filter-lab-pro.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
